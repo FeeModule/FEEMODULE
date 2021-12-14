@@ -1,33 +1,70 @@
-HELLO THERE!!!
+# Getting Started with Create React App
 
-The above Files and Folders contains the source code for the FEE MODULE which have been created by the Student's of NIT JSR , DCA.
-Group Members are :- Niteesh Kumar, Monu Verma and Rohit Tiwari
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-For creation of this we have gone through several ideas , did a lots of Q & A session with members and have few session of BrainStorm and then we have come up with this design model , what kind of data pattern which should be there, how data will be fetched modified etc.
+## Available Scripts
 
-We here are using ONLINE DATABASE that is MONGODB for storing , manipulating and fetching of the data.
-We have integrated a RAZORPAY PAYMENT INTEGRATION SYSTEM in this project, for handling of the payments.
+In the project directory, you can run:
 
-Since this module is in test phase , so in future more work on security enhacement can be done.
+### `npm start`
 
-For creating FEE MODULE we have used MERN Technology ( i.e. MongoDB , Express JS , React JS , and Node JS).
-The Module is an example of following the MVC architecture, where each of the above-mentioned language have been used for doing the task.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-For View part , which we can also understand as the Front End of  the system.
-We have used React JS for creating the frontend pages. View part consists lots of pages which user will be shown while using the module throughout. In this part,  we are handling the data entered by the student , manipulating and showing the details to the user , we are also showing the alert and confirmation messages to the student who is currently using the system in the View Mode. 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-For Model View, which we can understand as the database related work like structure or the reference which must be followed while dealing with the data.
-For this we have used the Mongoose Package of Node JS to create schemas for the Database at the backend.
-We are using ONLINE DATABASE SYSTEM named MONGODB for storing the Details which are important , and also using this system for fetching the details as per the sub-modules requirements.
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-For Controller, which we can understand as the one which is helping us to communicating properly with the frontend and backend also handling the request properly.
-Controller is the one which is dealing with the communication with the Database and our Backend.
-For controller part we are using EXPRESS JS to deal the task of communication and routing.
+### `npm run build`
 
-For Backend , we are using Node JS language to handle the task of backend.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Thank You !!
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
- This is a Single Page Website where there are no multiple html pages instead of it , we have several components which gets active when they are called or used.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
