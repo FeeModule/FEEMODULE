@@ -1,6 +1,6 @@
 HELLO THERE!!!
 
-The above File contains the source code for the FEE MODULE which have been created by the Student's of NIT JSR , DCA.
+The above Files and Folders contains the source code for the FEE MODULE which have been created by the Student's of NIT JSR , DCA.
 Group Members are :- Niteesh Kumar, Monu Verma and Rohit Tiwari
 
 For creation of this we have gone through several ideas , did a lots of Q & A session with members and have few session of BrainStorm and then we have come up with this design model , what kind of data pattern which should be there, how data will be fetched modified etc.
