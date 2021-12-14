@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie": "^0.4.1",
+    "cros": "^1.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ifsc": "^2.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12",
+    "parser": "^0.1.4",
+    "pdfkit": "^0.13.0",
+    "razorpay": "^2.8.0",
+    "uniqid": "^5.4.0",
+    "validator": "^13.7.0",
+    "validators": "^0.3.1"
+  }
+}
