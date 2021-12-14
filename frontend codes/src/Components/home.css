@@ -1,0 +1,151 @@
+.clg-name-logo{
+    align-content: center;
+}
+
+
+.clg-logo{
+        padding-top: 15px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      
+}
+
+
+.clg-name-eng{
+    color:#ffffff;
+    text-shadow: 0 0 3px #fff200;
+    text-decoration: none;
+    font-weight: 100;
+    padding-top: 15px;
+    font-size: 25px;
+    font-family: 'Recursive', sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.clg-name-hin{
+    color:#ffffff;
+    text-shadow: 0 0 3px #fff200;
+    text-align: center;
+    font-weight: 100;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+.jsr-eng{
+    color:#ffffff;
+    text-shadow: 0 0 3px #fff200;
+    font-family: 'Recursive', sans-serif;
+    text-align: center;
+    font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+
+.search-heading{
+    font-size: 25px;
+    color: #f5cd79;
+    letter-spacing: 1px;
+    font-weight: 100;;
+    font-family: 'Roborto' ,'Haveltica'  , 'Arial' ,sans-serif;
+    text-shadow: -4px 0 5px black;
+}
+
+.jsr-hin{
+    color:#ffffff;
+    text-shadow: 0 0 3px #fff200;
+    text-decoration: none;
+    text-align: center; 
+    font-weight: 100;
+    font-size: 20px;   
+}
+
+@media screen and ( max-width:600px ){
+
+}
+  
+.search-form{
+    padding-top: 15px;
+    color: burlywood;
+}
+
+.roll{
+    color: #f5cd79;
+    font-size: 15px;
+    font-family: 'Roberto Mono',Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    z-index: 9;
+    
+}
+.dob{
+    padding-top: 15px;
+    color: #f5cd79;
+    font-size: 15px;
+    font-family: 'Roberto Mono',Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    z-index: 9;
+    
+}
+
+.dob-box{
+    color: blanchedalmond;
+}
+
+
+/* .search-container{
+    
+} */
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    border-radius: 4px;
+    margin-right: 2px;
+    opacity: 0.6;
+    filter: invert(0.8);
+  }
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+    opacity: 1;
+    
+  }  
+
+input{
+    padding-top: 2px;
+    text-decoration-color: none;
+    size : 50px;
+    text-transform: uppercase !important;
+    text-decoration: none !important;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: whitesmoke;
+    color: blanchedalmond;
+}
+
+
+
+.res {
+   box-shadow: 0 0 10px #1e272e;
+   
+}
+
+.sub{
+    margin-right: 50px;
+    box-shadow: 0 0 10px #1e272e;
+}
+
+.st-n{
+    padding-top: 5px !important;
+}
+
+.mt-n{
+    padding-top: 5px !important;
+}
+    
+.ft-n{
+    padding-top: 5px;
+}

@@ -1,0 +1,23 @@
+.loan-pay{
+    padding: 20px;
+    display: inline;
+    margin-left: 50px ;
+    margin-right: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 0 0 5px black;
+
+}
+
+.online-pay{
+    padding: 20px;
+    display: inline;
+    margin-left: 50px ;
+    margin-right: 40px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

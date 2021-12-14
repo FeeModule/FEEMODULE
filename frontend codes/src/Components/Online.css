@@ -1,0 +1,72 @@
+.online-label{
+    font-size: 20px;
+    font-family: 'Roborto';
+    padding-top: 15px !important;
+    color:#F8EFBA;
+    text-shadow: -4px 0 3px black;
+
+}
+
+
+
+.can{
+    margin-left: 50px;
+    box-shadow: 0 0 10px #1e272e;
+}
+
+.reset{
+        
+        margin-left: 50px;
+        box-shadow: 0 0 10px #1e272e;
+    
+}
+
+.span-loan{
+
+      text-align: justify;
+      padding-left: 13px;
+      font-family: "Roborto Mono";
+      color: thistle;
+      letter-spacing: 2px;
+}
+
+.online-input{
+    margin-bottom: 5px !important;
+    color:#f7f1e3;
+}
+
+.heading{
+    padding-top: 3px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family:"Times New Roman", Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: -3px 0 2px black;
+}
+
+.hed-yr{
+    font-size: 18px;
+    color: whitesmoke;
+    font-family: "Permanent Marker" , cursive;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom:25px;
+    text-shadow: -2px 0px 2px black;
+}
+
+.loan-h5{
+    font-size: 18px;
+    color : whitesmoke;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-shadow: -3px 0 3px black;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Caveat';
+}
+
+.hidden{
+    display: none;
+}
+

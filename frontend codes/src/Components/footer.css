@@ -1,0 +1,32 @@
+
+.footer-box{
+    color: burlywood;
+    background-color: black;
+    bottom:0;
+    width: 100%;
+    height: auto;
+    padding-top: 15px;
+    margin-top: 3.6vh;
+    text-align: center;
+    text-shadow:3px px 5px black;
+    font-size: 20px;
+    font-family: 'Consolas' , cursive;
+    box-shadow: -3px 0 10px black;
+    /* position: absolute; */
+}
+
+@media screen and( max-width : 500px) {
+    .footer-box{
+        bottom: 0%;
+        height: auto;
+        font-size: 10px;
+    }
+    
+}
+
+@media  screen and (min-width : 1300px) {
+  .footer-box{
+      position: absolute;
+  }   
+    
+}
