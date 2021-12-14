@@ -27,7 +27,7 @@ For controller part we are using EXPRESS JS to deal the task of communication an
 
 For Backend , we are using Node JS language to handle the task of backend.
 
-
+Thank You !!
 
  This is a Single Page Website where there are no multiple html pages instead of it , we have several components which gets active when they are called or used.
 
